@@ -1,0 +1,5 @@
+sensors.c:23:6:HAL_TIM_IC_CaptureCallback	16	static
+sensors.c:74:6:sensors_init_pwm	24	static
+sensors.c:111:6:sensors_calculated_distance	16	static
+sensors.c:128:6:sensors_calculated_distance_2	16	static
+sensors.c:146:6:sensors_start_servo	16	static

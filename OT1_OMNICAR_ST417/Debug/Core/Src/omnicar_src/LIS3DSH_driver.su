@@ -1,0 +1,7 @@
+LIS3DSH_driver.c:28:6:LIS3DSH_Write_Reg	24	static
+LIS3DSH_driver.c:38:6:LIS3DSH_Read_Reg	24	static
+LIS3DSH_driver.c:54:6:LIS3DSH_Init	24	static
+LIS3DSH_driver.c:109:19:LIS3DSH_Get_Data_Raw	32	static
+LIS3DSH_driver.c:130:22:LIS3DSH_Get_Data_Scaled	56	static
+LIS3DSH_driver.c:142:6:LIS3DSH_X_Calibrate	16	static
+LIS3DSH_driver.c:148:6:LIS3DSH_Y_Calibrate	16	static
